@@ -1,0 +1,8 @@
+{
+    "schemaType": "NERDLET",
+    "id": "static-nerdgraph-query-test-nerdlet",
+    "displayName": "StaticNerdgraphQueryTestNerdlet",
+    "entities": [{ "domain": "APM",  "type": "APPLICATION" }],
+    "description": "",
+    "actionCategory": "monitor"
+}
